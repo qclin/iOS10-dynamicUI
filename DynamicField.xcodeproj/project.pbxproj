@@ -47,6 +47,7 @@
 		F5715E281E5A366E0039254C /* DynamicFieldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DynamicFieldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5715E2C1E5A366E0039254C /* DynamicFieldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicFieldUITests.swift; sourceTree = "<group>"; };
 		F5715E2E1E5A366E0039254C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5715E3A1E5A3A840039254C /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 				F5715E0C1E5A366E0039254C /* AppDelegate.swift */,
 				F5715E0E1E5A366E0039254C /* ViewController.swift */,
 				F5715E101E5A366E0039254C /* Main.storyboard */,
+				F5715E3A1E5A3A840039254C /* Header.h */,
 				F5715E131E5A366E0039254C /* Assets.xcassets */,
 				F5715E151E5A366E0039254C /* LaunchScreen.storyboard */,
 				F5715E181E5A366E0039254C /* Info.plist */,
@@ -193,7 +195,7 @@
 				TargetAttributes = {
 					F5715E081E5A366E0039254C = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 5H99ZYMEE4;
+						DevelopmentTeam = 9E72MPGUQ7;
 						ProvisioningStyle = Automatic;
 					};
 					F5715E1C1E5A366E0039254C = {
@@ -413,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5H99ZYMEE4;
+				DEVELOPMENT_TEAM = 9E72MPGUQ7;
 				INFOPLIST_FILE = DynamicField/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sample.DynamicField;
@@ -426,7 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5H99ZYMEE4;
+				DEVELOPMENT_TEAM = 9E72MPGUQ7;
 				INFOPLIST_FILE = DynamicField/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sample.DynamicField;
